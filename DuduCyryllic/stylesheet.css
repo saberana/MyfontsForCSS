@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'dudu_cyryllicmedium';
     src: url('duducyrillic-webfont.woff2') format('woff2'),
-         url('duducyrillic-webfont.woff') format('woff');
+//         url('duducyrillic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
